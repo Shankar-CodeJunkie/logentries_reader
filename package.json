@@ -1,0 +1,22 @@
+{
+  "name": "logentries_reader",
+  "version": "1.0.0",
+  "description": "Module to read LogEntries logsets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shankar-IBM-ISL-Developer/logentries_reader.git"
+  },
+  "author": "Shankar Venkatachalam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shankar-IBM-ISL-Developer/logentries_reader/issues"
+  },
+  "homepage": "https://github.com/Shankar-IBM-ISL-Developer/logentries_reader#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
